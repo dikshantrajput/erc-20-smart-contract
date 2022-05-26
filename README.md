@@ -2,7 +2,7 @@
 A basic ERC 20 token contract
 
 Steps to deploy the contarct on mumbai (polygon testnet) and test :
-* Clone the repo
+* Go to master branch && Clone the repo
 * cd to the folder && run npm install
 * run npx hardhat
 * copy the .env.example file and name it .env and set the required variables
